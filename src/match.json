@@ -1,0 +1,60 @@
+{
+    "venue": "Rome",
+    "matchName": "Germany VS Argentina",
+    "tournamentName": "FIFA WC",
+    "tournamentLongName": "Federation of wtv",
+    "teams": ["Germany", "Argentina"],
+    "winner": "Argentina",
+    "temperature": {
+        "start": 23,
+        "end": 23,
+        "unit": "Celcius"
+    },
+    "scorers": [
+        {
+            "name": "Maradona",
+            "team": "Argentina",
+            "minute": 78
+        },
+        {
+            "name": "Ronaldo",
+            "team": "Germany",
+            "minute": 61
+        },
+        {
+            "name": "Messi",
+            "team": "Argentina",
+            "minute": 16
+        }
+    ],
+    "players": [
+        {
+            "name": "Maradona",
+            "role": "offense",
+            "position": "forward",
+            "jerseyNumber": 23,
+            "team": "Argentina"
+        },
+        {
+            "name": "Ronaldo",
+            "role": "offense",
+            "position": "forward",
+            "jerseyNumber": 7,
+            "team": "Germany"
+        },
+        {
+            "name": "Pele",
+            "role": "defense",
+            "position": "right back",
+            "jerseyNumber": 16,
+            "team": "Germany"
+        },
+        {
+            "name": "Messi",
+            "role": "offense",
+            "position": "forward",
+            "jerseyNumber": 12,
+            "team": "Argentina"
+        }
+    ]
+}
