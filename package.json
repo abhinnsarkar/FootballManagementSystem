@@ -1,5 +1,5 @@
 {
-    "name": "football",
+    "name": "FootballManagementSystem",
     "description": "This is my first typescript project",
     "main": "./dist/index.js",
     "scripts": {
@@ -9,15 +9,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/abhinnsarkar/Football.git"
+        "url": "git+https://github.com/abhinnsarkar/FootballManagementSystem.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/abhinnsarkar/Football/issues"
+        "url": "https://github.com/abhinnsarkar/FootballManagementSystem/issues"
     },
-    "homepage": "https://github.com/abhinnsarkar/Football#readme",
+    "homepage": "https://github.com/abhinnsarkar/FootballManagementSystem#readme",
     "dependencies": {
         "config": "^3.3.9",
         "dotenv": "^16.0.3",
